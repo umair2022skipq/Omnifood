@@ -1,3 +1,3 @@
 # Omnifood
 
-## Live [Demo](https://umairasim2022.github.io/Omnifood/)
+# Live [Demo](https://umairasim2022.github.io/Omnifood/)
